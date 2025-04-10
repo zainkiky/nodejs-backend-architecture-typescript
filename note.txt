@@ -1,0 +1,2 @@
+Run Seed
+mongosh admin /addons/init-mongo.js
